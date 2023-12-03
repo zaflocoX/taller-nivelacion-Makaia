@@ -1,4 +1,4 @@
-<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="MDULO_SOBRE_LGICA_LGICA_DE_PROGRAMACIN_Y_PROGRAMACIN_CONJAVASCRIPT_0"></a>MÓDULO MÓDULO SOBRE HTML, CSS Y RESPONSIVE DESIGN</h2>
+<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="MDULO_SOBRE_LGICA_LGICA_DE_PROGRAMACIN_Y_PROGRAMACIN_CONJAVASCRIPT_0"></a>MÓDULO MODULO II - HTML, CSS Y RESPONSIVE DESIGN</h2>
 <ol>
 <li class="has-line-data" data-line-start="2" data-line-end="3">¿Qué significa HTML y cuál es su función en el desarrollo web?</li>
 </ol>

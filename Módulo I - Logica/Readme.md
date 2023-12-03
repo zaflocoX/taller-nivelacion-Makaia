@@ -1,4 +1,4 @@
-## MÓDULO SOBRE LÓGICA LÓGICA DE PROGRAMACIÓN Y PROGRAMACIÓN CONJAVASCRIPT
+## MÓDULO I - LÓGICA DE PROGRAMACIÓN Y PROGRAMACIÓN CONJAVASCRIPT
 
 1.	¿Qué es la lógica en el contexto de la programación? Y explicar por qué es importante en el desarrollo web Frontend.
  - La lógica es la manera de analizar e implementar soluciones a partir de escribir código en algún lenguaje de programación, en el desarrollo web Frontend es importante porque permite tener una manera de ser eficientes en el momento de crear los aplicativos desarrollados. 
